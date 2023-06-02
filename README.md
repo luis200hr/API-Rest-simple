@@ -10,8 +10,9 @@ Voll.med is a fictitious medical clinic that needs an application for managing a
 
 <h2>🛠️Technologies</h2>
 
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot--6DB33F?style=for-the-badge&logo=Springboot)
+![Flyway](https://img.shields.io/badge/flyway--CC0200?style=for-the-badge&logo=flyway)
 <h2>🚀Use</h2>
 After downloading and running the project. You can use "Insomnia" to simulate a client and test the functionalities.
 Dowloand Insomian Here --> https://insomnia.rest/download
